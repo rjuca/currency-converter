@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/avenuecode/Dev/AC/CurrencyConverter/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
